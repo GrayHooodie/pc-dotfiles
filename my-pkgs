@@ -1,0 +1,60 @@
+PACMAN:
+hyprpolkitagent
+kitty
+hyprpaper
+dunst
+wofi
+ranger
+wireplumber
+xdg-desktop-portal-hyprland
+hypridle
+brave
+tailscale
+syncthing
+rofi
+grim
+hyprlock
+ntfs-3g
+tmux
+discord
+gimp
+godot
+github-cli
+heroic-games-launcher-bin
+steam
+neovim
+ruby
+ruby-irb
+audacity
+ollama
+kdenlive
+python-pipx
+element-desktop
+qemu
+virt-manager
+virt-viewer
+vde2
+openbsd-netcat
+iptables-nft
+libguestfs
+xorg-xlsclients
+byobu
+sunshine
+yabridge
+yabridgectl
+wine
+winetricks
+realtime-privileges
+mpv
+yt-dlp
+cmus
+
+FLATPAK:
+	spotify
+	reaper
+
+AUR:
+	yay
+	curseforge
+	paru
+
