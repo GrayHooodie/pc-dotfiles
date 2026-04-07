@@ -1,0 +1,95 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="tests-1c67e613">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Programming/Ruby/tests/main.rb" protocol="file" />
+    </project>
+    <project id="koans-20ffed28">
+      <jump line="0" column="0" filename="$USER_HOME$/Git/LEARNING/koans/about_true_and_false.rb" protocol="file" />
+      <jump line="33" column="0" filename="$USER_HOME$/Git/LEARNING/koans/about_true_and_false.rb" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/Git/LEARNING/koans/about_true_and_false.rb" protocol="file" />
+      <jump line="11" column="21" filename="$USER_HOME$/Git/LEARNING/koans/about_true_and_false.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Git/LEARNING/koans/about_asserts.rb" protocol="file" />
+      <jump line="9" column="17" filename="$USER_HOME$/Git/LEARNING/koans/about_asserts.rb" protocol="file" />
+      <jump line="12" column="27" filename="$USER_HOME$/Git/LEARNING/koans/about_true_and_false.rb" protocol="file" />
+      <jump line="25" column="28" filename="$USER_HOME$/Git/LEARNING/koans/about_true_and_false.rb" protocol="file" />
+      <jump line="27" column="21" filename="$USER_HOME$/Git/LEARNING/koans/about_true_and_false.rb" protocol="file" />
+      <jump line="29" column="21" filename="$USER_HOME$/Git/LEARNING/koans/about_true_and_false.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="10" column="17" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="15" column="38" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="20" column="23" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="26" column="20" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="34" column="20" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="44" column="19" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="48" column="22" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="49" column="24" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="50" column="25" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="52" column="18" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="53" column="17" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="54" column="18" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Git/LEARNING/koans/path_to_enlightenment.rb" protocol="file" />
+      <jump line="59" column="30" filename="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/Git/LEARNING/koans/about_asserts.rb" timestamp="1771316767382">
+        <mark key="&quot;" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/Git/LEARNING/koans/about_true_and_false.rb" timestamp="1771316998218">
+        <mark key="&quot;" line="29" column="21" />
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="22" />
+      </file>
+      <file name="$USER_HOME$/Git/LEARNING/koans/path_to_enlightenment.rb" timestamp="1771316811357">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Programming/Ruby/tests/main.rb" timestamp="1771316523901">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Git/LEARNING/koans/about_strings.rb" timestamp="1771317427228">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="59" column="17" />
+        <mark key="]" line="59" column="31" />
+        <mark key="." line="59" column="30" />
+        <mark key="^" line="59" column="31" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">X18=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">X18=</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">IiJIZWxsbywgV29ybGQ=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

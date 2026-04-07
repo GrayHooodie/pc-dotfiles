@@ -1,0 +1,108 @@
+* {
+    border: none;
+    border-radius: 10;
+    font-family: JetBrainsMono, Regular;
+    font-size: 18px;
+
+    /* neccessary */
+    min-height: 0;
+    margin: 5 2px;
+    padding: 0;
+}
+
+window#waybar {
+    background: rgba(43, 63, 70, 0.6); /*rgba(121, 204, 185, 0.7); rgba(116, 255, 213, 0.5);*/
+    color: white;
+    border: 2px solid rgba(89, 89, 89, 0.65); /*#e8eaed;*/
+}
+
+tooltip {
+  background: rgba(4, 27, 41, 0.8);
+  border: 2px solid #999999; }
+tooltip label {
+  color: white;
+}
+
+#workspaces button {
+    transition: all 200ms ease-in-out;
+    padding: 0 3px;
+    margin: 3 4px;
+	min-height: 40px;
+    background: #ce7986;
+    color: white;
+    border: 2px solid #e8eaed;
+}
+
+#workspaces button.active {
+    min-width: 20px;
+	min-height: 90px;
+    background: #79ccb9;
+    color: #e8eaed; /*#ce7986;*/
+}
+
+#workspaces button:hover {
+	background: #e8eaed;
+}
+
+#workspaces button.urgent { 
+	background-color: #e8eaed;
+} 
+
+#clock {
+    font-weight: 700;
+	min-height: 95px;
+    padding: 8 7px;
+    margin: 3 3px;
+    border: 2px solid #e8eaed;
+	background-color: #ce7986;
+}
+
+#network {
+    background-color: #ce7986;
+    padding: 0 0px;
+    border: 2px solid #e8eaed;
+	min-height: 42px;
+}
+
+#cpu,
+#memory {
+	background-color: #e8eaed;
+	border: 2px solid #e8eaed;
+	font-size: 15px;
+	min-height: 40px;
+	margin: 3 3px;
+	color: #ce7986; /*#79ccb9;*/
+}
+
+#pulseaudio {
+    background-color: #ce7986;
+    padding: 0 10px;
+    border: 2px solid #e8eaed;
+}
+
+#pulseaudio-slider {
+    margin: 0 3px;
+}
+#pulseaudio-slider slider {
+    margin: 0 2px;
+    min-height: 40px;
+    min-width: 20px;
+    opacity: 100;
+    background-image: none;
+    border: none;
+    box-shadow: none;
+}
+#pulseaudio-slider trough {
+    margin: 0 0px;
+    min-height: 70px;
+    min-width: 20px;
+    border-radius: 5px;
+    background: #79ccb9;
+	border: 2px solid #e8eaed;
+}
+#pulseaudio-slider highlight {
+    margin: 3 2px;
+    min-width: 20px;
+    border-radius: 5px;
+    background: #e8eaed;
+}

@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CreateDesktopEntry">
+      <i c="1" l="1771313725830" />
+    </e>
+    <e n="EditorEscape">
+      <i c="2" l="1771314343839" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="2" l="1771311666594" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1771314509503" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1771314330985" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1771311605994" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1771311581057" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" l="1771314332756" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="1" l="1771314471546" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1771313723401" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="1" l="1771314472818" />
+    </e>
+  </component>
+</application>

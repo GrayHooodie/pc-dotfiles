@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/Programming/Java/tests" value="true" />
+        <entry key="$USER_HOME$/Documents/Programming/Ruby/tests" value="true" />
+        <entry key="$USER_HOME$/Git/LEARNING/koans" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

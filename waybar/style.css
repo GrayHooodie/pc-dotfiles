@@ -1,0 +1,108 @@
+* {
+    border: none;
+    border-radius: 10;
+    font-family: JetBrainsMono, Regular;
+    font-size: 18px;
+
+    /* neccessary */
+    min-height: 0;
+    margin: 5 2px;
+    padding: 0;
+}
+
+window#waybar {
+    background: rgba(34, 35, 47, 0.86); /*rgba(121, 204, 185, 0.7); rgba(116, 255, 213, 0.5);*/
+    color: white;
+    border: 2px solid rgb(49, 49, 49); /*#e8eaed;*/
+}
+
+tooltip {
+  background: rgba(34, 35, 47, 0.95);
+  border: 2px solid #999999; }
+tooltip label {
+  color: white;
+}
+
+#workspaces button {
+    transition: all 200ms ease-in-out;
+    padding: 0 3px;
+    margin: 3 4px;
+	min-height: 40px;
+    background: #f57fd3;
+    color: white;
+    border: 2px solid #f9d8e9;
+}
+
+#workspaces button.active {
+    min-width: 20px;
+	min-height: 90px;
+    background: #a0acfe;
+    color: white; /*#ce7986;*/
+}
+
+#workspaces button:hover {
+	background: #f9d8e9;
+}
+
+#workspaces button.urgent { 
+	background-color: #f9d8e9;
+} 
+
+#clock {
+    font-weight: 700;
+	min-height: 95px;
+    padding: 8 7px;
+    margin: 3 3px;
+    border: 2px solid #f9d8e9;
+	background-color: #183483;
+}
+
+#network {
+    background-color: #183483;
+    padding: 0 0px;
+    border: 2px solid #f9d8e9;
+	min-height: 42px;
+}
+
+#cpu,
+#memory {
+	background-color: #f9d8e9;
+	border: 2px solid #f9d8e9;
+	font-size: 12px;
+	min-height: 40px;
+	margin: 3 3px;
+	color: #a0acfe; /*#79ccb9;*/
+}
+
+#pulseaudio {
+    background-color: #ce7986;
+    padding: 0 10px;
+    border: 2px solid #f9d8e9;
+}
+
+#pulseaudio-slider {
+    margin: 0 3px;
+}
+#pulseaudio-slider slider {
+    margin: 0 2px;
+    min-height: 40px;
+    min-width: 20px;
+    opacity: 100;
+    background-image: none;
+    border: none;
+    box-shadow: none;
+}
+#pulseaudio-slider trough {
+    margin: 0 0px;
+    min-height: 70px;
+    min-width: 20px;
+    border-radius: 5px;
+    background: #274fae;
+	border: 2px solid #f9d8e9;
+}
+#pulseaudio-slider highlight {
+    margin: 3 2px;
+    min-width: 20px;
+    border-radius: 5px;
+    background: #f9d8e9;
+}

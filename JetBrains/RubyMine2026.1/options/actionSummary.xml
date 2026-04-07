@@ -1,0 +1,82 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CreateDesktopEntry">
+      <i c="1" l="1771313611617" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="61" l="1771317410757" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="3" l="1771317041351" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="5" l="1771316934676" />
+    </e>
+    <e n="EditorEscape">
+      <i c="103" l="1771317427226" />
+    </e>
+    <e n="FileChooser.NewFolder">
+      <i c="1" l="1771313514476" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1771316508619" />
+    </e>
+    <e n="Ruby.CreateNewClassFile">
+      <i c="1" l="1771314429181" />
+    </e>
+    <e n="Run">
+      <i c="23" l="1771317448626" />
+    </e>
+    <e n="SaveAll">
+      <i c="14" l="1771317427802" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="3" l="1771313604848" />
+    </e>
+    <e n="SplitVertically">
+      <i c="2" l="1771316805133" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="1" l="1771313550683" />
+    </e>
+    <e n="com.intellij.codeInsight.lookup.impl.LookupUi$MenuAction">
+      <i c="1" l="1771316911547" />
+    </e>
+    <e n="com.intellij.ide.actions.ToolWindowMoveAction">
+      <i c="1" l="1771316613798" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1771313439707" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.settingChooser.SettingChooserItemAction">
+      <i c="1" l="1771313440970" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1771316595850" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="57" l="1771317410756" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1771316998216" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1771313544825" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1771316506523" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$3">
+      <i c="2" l="1771313488767" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1771316604556" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="2" l="1771314434781" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="1" l="1771314454472" />
+    </e>
+  </component>
+</application>

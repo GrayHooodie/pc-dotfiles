@@ -1,0 +1,44 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/Programming/Ruby/tests">
+          <value>
+            <RecentProjectMetaInfo frameTitle="tests – main.rb" projectWorkspaceId="39muONPmYSYYba5mnkCHDj1khwY">
+              <option name="activationTimestamp" value="1771316522320" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-261.20869.43" />
+              <option name="buildTimestamp" value="1770960360000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="1020" y="220" width="3340" height="1404" extendedState="6" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1771313534013" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Git/LEARNING/koans">
+          <value>
+            <RecentProjectMetaInfo frameTitle="koans – path_to_enlightenment.rb" opened="true" projectWorkspaceId="39n0SLLTuuMMSONMJPPnT4Gj9T8">
+              <option name="activationTimestamp" value="1771316838578" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RM-261.20869.43" />
+              <option name="buildTimestamp" value="1770960360000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="100" y="20" width="3340" height="1404" extendedState="6" />
+              <option name="productionCode" value="RM" />
+              <option name="projectOpenTimestamp" value="1771316526136" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Git/LEARNING/koans" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/Programming/Ruby" />
+  </component>
+</application>
